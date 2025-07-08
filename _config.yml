@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Erica M. Ferrer, Ph.D."
+title                    : "Erica Ferrer"
 title_separator          : "-"
 name                     : &name "Erica Ferrer"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Erica Profile Picture 1.heic"
   name             : "Erica M. Ferrer, Ph.D."
   pronouns         : "she/her"  
   bio              : "UCSC Chancellor's Postdoctoral Fellow"
