@@ -24,9 +24,9 @@ author:
   avatar           : "Erica DIVERsity Headshot.jpg"
   name             : "<b>Erica M. Ferrer, Ph.D.</b>"
   pronouns         : "she/her"  
-  bio              : "<b>Postdoctoral Scholar</b> <br> UC Chancellor's Fellow (UCSC, 2023–2025)"
+  bio              : "<b>Postdoctoral Scholar, National Center for Ecological <br> Analysis and Synthesis (NCEAS) <br> at UC Santa Barbara</b> <br> UC Chancellor's Fellow (UCSC, 2023–2025)"
   location         : "Santa Barbara, CA"
-  employer         : "National Center for Ecological <br> Analysis and Synthesis (NCEAS) <br> at UC Santa Barbara"
+  employer         : # "National Center for Ecological <br> Analysis and Synthesis (NCEAS) <br> at UC Santa Barbara"
   uri              : # URL
   email            : "ferrer@nceas.ucsb.edu" 
 
