@@ -1,5 +1,4 @@
-# Welcome to Jekyll!
-#
+
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -25,11 +24,12 @@ author:
   avatar           : "Erica DIVERsity Headshot.jpg"
   name             : "Erica M. Ferrer, Ph.D."
   pronouns         : "she/her"  
-  bio              : "UCSC Chancellor's Postdoctoral Fellow"
-  location         : "Santa Cruz, CA"
-  employer         : "UC Santa Cruz"
+  bio              : "Postdoctoral Scholar"
+  : "UCSC Chancellor's Postdoctoral Fellow"
+  location         : "Santa Barbara, CA"
+  employer         : "National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara"
   uri              : # URL
-  email            : "emferrer@ucsd.edu" 
+  email            : "ferrer@nceas.ucsb.edu" 
 
   # Academic websites
   academia         : # URL
