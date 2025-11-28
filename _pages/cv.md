@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D, Marine Biology</b>, Scripps Institution of Oceanography at UC San Diego (2023)
-* <b>Doctoral Specialization in Interdisciplinary Environmental Research</b>, UC San Diego (2023)
-* <b>M.S., Oceanography</b>, Scripps Institution of Oceanography at UC San Diego (2019)
-* <b>B.S., Marine Biology with a minor in Chemistry</b>, UC Santa Cruz (2017)
+* <b>Ph.D. in Marine Biology</b>, 2023<br>
+  <font size = "3"> Scripps Institution of Oceanography, UCSD</font>
+* <b>M.S. in Oceanography</b>, 2019<br>
+  <font size = "3"> Scripps Institution of Oceanography, UCSD</font>
+* <b>B.S. in Marine Biology</b>, 2017 <br>
+  <font size = "3"> UCSC</font>
