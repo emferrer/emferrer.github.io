@@ -59,21 +59,20 @@ Academic Excellence Program (ACE), Physical and Biological Sciences Div. at UC S
 
 
 Professional Service (selected)
-======
-* Co-Founder & Co-Lead, Scripps SCUBA DIVERsity Program (2017-present)
-Scripps Institution of Oceanography, UC San Diego
+===============================
 
-* Co-Founder & Co-Lead, ACCESS Diving Program (2023-2024)
-University of California, Santa Cruz
+<div class="publist" markdown="1">
 
-* Member & Co-Organizer, Scripps’ Women and Minorities in Science group (WMIS) (2018-2022)
-Scripps Institution of Oceanography, UC San Diego
+1. <b>Co-Founder & Co-Lead, Scripps SCUBA DIVERsity Program (2017–present)</b><br>
+   Scripps Institution of Oceanography, UC San Diego
 
-* Scripps Community Engagement Fellow (2020-2021)
-(Formerly) Office for Equity, Diversity, and Inclusion at Scripps Institution of Oceanography, UC San Diego
+2. <b>Co-Founder & Co-Lead, ACCESS Diving Program (2023–2024)</b><br>
+   University of California, Santa Cruz
 
-* Co-Founder & Member, Climate Action & Policy Committee (CAP) (2019-2022)
-Graduate & Professional Student Association at UC San Diego
+3. <b>Member & Co-Organizer, Scripps’ Women and Minorities in Science group (WMIS) (2018–2022)</b><br>
+   Scripps Institution of Oceanography, UC San Diego
 
-* Vice President of Campus Affairs (elected) (2018-2019)
-Graduate & Professional Student Association at UC San Diego
+4. <b>Scripps Community Engagement Fellow (2020–2021)</b><br>
+   (Formerly) Office for Equity, Diversity, and Inclusion at Scripps Institution of Oceanography, UC San Diego
+
+</div>
