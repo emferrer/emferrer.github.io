@@ -49,4 +49,14 @@
 .publist a {
   color: #0044cc; /* ensure links still look good */
   text-decoration: underline;
+
+.publist ol {
+  list-style-type: decimal;
+  padding-left: 1.5rem;  // ensures proper indentation
+}
+
+.publist li {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
+}
 }
