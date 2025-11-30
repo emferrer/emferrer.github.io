@@ -21,6 +21,7 @@ Work Experience
   Ocean Health Index: Gulf of California, National Center for Ecological Analysis & Synthesis (NCEAS) at UC Santa Barbara
 * <b>UCSC Chancellor’s Postdoctoral Fellow</b> (2023–2025)<br>
   Kroeker Lab, University of California Santa Cruz
+  <i> Learn more about the Chancellor's Postdoctoral Fellowship Program – supported under the University of California's Office of the President – [here](https://ppfp.ucop.edu/info/).</i>
 * <b>UC President’s Pre-Professoriate Fellow</b> (2022–2023)<br>
   Aburto Lab, Scripps Institution of Oceanography at UC San Diego
 * <b>NSF Graduate Research Fellow</b> (2017–2022)<br>
