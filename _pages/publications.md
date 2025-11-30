@@ -7,9 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
+## Submitted
+<div class="publist" markdown="1">
+1. <b>Ferrer, E. M.</b>, Eddebbar, Y., Gangrade, S., McCormick, L. R., Pezner, A. K., Robinson, D. Garcon, V., Rose, K. C., and Levin, L. A. Expanding on the aquatic deoxygenation planetary boundary: progress towards an ‘unsafe space’, interactions with other stressors, and wider societal significance. In revision, Limnology and Oceanography. [Pre-print available](http://bit.ly/454fHNn)
+2. Nenadovic, M., Giron, A., Frawley, T., Munguia-Vega, A., Pellowe, K. E., <b>Ferrer, E. M.</b>, Leslie, H. M., Weaver, A. H., Gill, D., Aburto, O., Basurto, X., Gladstone, F., Gonzalez-Mon, B., Johnson, A., Lindkvist, E., Mansfield, E., Micheli, F., Quintana, A., Reilly Moman, J., Rodriguez-Van Dyck, S., Schlueter, M., Torre, J., Vollan, B., Marinone, G., Parés-Sierra, A., and Flores-Morales, A-L. Governance arrangements that fit the social-ecological context are associated with fishery sustainability. In revision, Fish and Fisheries.
+</div>
+3. <b>Ferrer, E. M.</b>, Hardison, E. A., Ramírez-Valdez, A., Huynh, V., Romero, E., Eliason, E. J., Tamayo Ceseña, G. I., and Garcia Esquivel, Z. Physiological plasticity and vulnerability of a commercially-important bivalve (Nodipecten scallops) to chronic El Niño and acute heatwave stressors. Submitted.
+4. Slomp, C. P., Oschlies, A., Austin, D., Bach, L. T., Bopp, L., Breitburg, D., Canning, A., Conley, D. J., Dai, M., Dewitte, B., Enevoldsen, H., <b>Ferrer, E. M.</b>, et al. Can artificial oxygenation revitalize dying coastal seas? Submitted.
+
 ## Published
 <div class="publist" markdown="1">
-1. <b>Ferrer, E. M.</b>*, Pezner, A. K.*, Eddebbar, Y., Breitburg, D., Crowe, S., Garçon, V., Grégoire, M., Jane, S., Leavitt, P., Levin, L. A., Rose, K., and Wallace, D. (2025). Why Aquatic Deoxygenation belongs in the Planetary Boundary Framework. PLOS Climate, 4, p. 1–4. (* co-first authors.)
+1. <b>Ferrer, E. M.</b> *=*, Pezner, A. K. *=*, Eddebbar, Y., Breitburg, D., Crowe, S., Garçon, V., Grégoire, M., Jane, S., Leavitt, P., Levin, L. A., Rose, K., and Wallace, D. (2025). Why Aquatic Deoxygenation belongs in the Planetary Boundary Framework. PLOS Climate, 4, p. 1–4. (*=* co-first authors.)
 2. Aburto-Oropeza, O., Platzgummer, V., <b>Ferrer, E. M.</b>, Mirabent, R. A., Galindo, A. Á., Favoretto, F., Giron-Nava, A., López-Sagástegui, C. Mendoza-Camacho, I., Nuñez-Sañudo, C., Plascencia de La Cruz, M., and Robles, A. (2025). Marine Prosperity Areas: A framework for aligning ecological restoration and human well-being using marine area-based protections. Frontiers in Marine Science, 11, p. 1–16.
 3. Fadlovich, R., Carrasco Flores, D., <b>Ferrer, E. M.</b>, Graham, O., Hampton, S., Khrizman, A., Kong, C., Kreuser, A., Pinter, S., Sims, L., Torres, M., Una, R., Wilson, A., Zhang, W., Zhu, Y., and Greene, C. (2025). The next generation of marine heatwaves science: takeaways from a two-week training workshop. Limnology & Oceanography Bulletin, p. 1–3.  
 4. Roman, M., Altieri, A., Breitburg, D., <b>Ferrer, E. M.</b>, Gallo, N., Ito, S-I., Limburg, K., Rose, K., Yasuhara, M., and Levin, L. A. (2024). Biological indicators of oxygen stress in marine water-breathing animals. Biogeosciences, 21, p. 4975–5004.
@@ -21,14 +29,3 @@ author_profile: true
 10. <b>Ferrer, E. M.</b>, Cavole, L. M., Clausnitzer, S., Dias, D. F., Osborne, T. C., Sugla, R. and Harrison, E. (2021). Entering negotiations: Early-career perspectives on the UN Conference of Parties (COP) and the unfolding climate crisis. Frontiers in Marine Science, 8, p. 1–11.
 11. Koslow, J. A., Davison, P., <b>Ferrer, E. M.</b>, Jiménez Rosenberg, S. P. A., Aceves-Medina, G., and Watson, W. (2018). The evolving response of mesopelagic fishes to declining midwater oxygen concentrations in the southern and central California Current. ICES Journal of Marine Science, 73, p. 626–38.
 </div>
-
-## Submitted Manuscripts
-<div class="publist" markdown="1">
-1. Slomp, C. P., Oschlies, A., Austin, D., Bach, L. T., Bopp, L., Breitburg, D., Canning, A., Conley, D. J., Dai, M., Dewitte, B., Enevoldsen, H., <b>Ferrer, E. M.</b>, et al. Can artificial oxygenation revitalize dying coastal seas? Submitted.
-2. <b>Ferrer, E. M.</b>, Hardison, E. A., Ramírez-Valdez, A., Huynh, V., Romero, E., Eliason, E. J., Tamayo Ceseña, G. I., and Garcia Esquivel, Z. Physiological plasticity and vulnerability of a commercially-important bivalve (Nodipecten scallops) to chronic El Niño and acute heatwave stressors. Submitted.
-3. <b>Ferrer, E. M.</b>, Eddebbar, Y., Gangrade, S., McCormick, L. R., Pezner, A. K., Robinson, D. Garcon, V., Rose, K. C., and Levin, L. A. Expanding on the aquatic deoxygenation planetary boundary: progress towards an ‘unsafe space’, interactions with other stressors, and wider societal significance. In revision, Limnology and Oceanography. [Pre-print available](http://bit.ly/454fHNn)
-4. Nenadovic, M., Giron, A., Frawley, T., Munguia-Vega, A., Pellowe, K. E., <b>Ferrer, E. M.</b>, Leslie, H. M., Weaver, A. H., Gill, D., Aburto, O., Basurto, X., Gladstone, F., Gonzalez-Mon, B., Johnson, A., Lindkvist, E., Mansfield, E., Micheli, F., Quintana, A., Reilly Moman, J., Rodriguez-Van Dyck, S., Schlueter, M., Torre, J., Vollan, B., Marinone, G., Parés-Sierra, A., and Flores-Morales, A-L. Governance arrangements that fit the social-ecological context are associated with fishery sustainability. In revision, Fish and Fisheries.
-</div>
-
-
-
