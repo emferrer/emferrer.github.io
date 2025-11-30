@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "<b>Postdoctoral Scholar</b><br>National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara<br>UC Chancellor's Fellow (UCSC, 2023–2025)"
   location         : "Santa Barbara, CA"
-  employer         : # "National Center for Ecological <br> Analysis and Synthesis (NCEAS) <br> at UC Santa Barbara"
+  employer         : # National Center for Ecological <br> Analysis and Synthesis (NCEAS) <br> at UC Santa Barbara
   uri              : # URL
   email            : "ferrer@nceas.ucsb.edu" 
 
@@ -34,7 +34,6 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=V759DIMAAAAJ&hl=en"
-#  UC President's Fellows directory     : "https://ppfp.ucop.edu/info/fellowship-recipients/fellows-2023/fellows-2023-name/"
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-6709-449X"
   semantic         : # URL
