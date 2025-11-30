@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Background & Vision"
+title: "Research Background & Interests"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,6 @@ My research is interdisciplinary, broadly focused on the effects of climate cha
 
 Prior to joining NCEAS, I was a Chancellor's Postdoctoral Fellow in the [Coastal Sustainability Lab](https://kristy-kroeker.squarespace.com/) at UC Santa Cruz. Before that, I completed my Ph.D. in Marine Biology and M.S. in Oceanography at UC San Diego's Scripps Institution of Oceanography in the [Aburto Lab](https://www.aburtolab.org/). At Scripps, I received formal training in global policy and strategy via the Center for Marine Biodiversity and Conservation's [Program for Interdisciplinary Environmental Research](https://cmbc.ucsd.edu/program-for-interdisciplinary-environmental-research-pier-phd-specialization/). 
 
-I passionate about the work that I do and believe that our efforts to build a more just, sustainable future will require ambition, clarity of vision, and a willingness to work together across fields in good faith. For this reason, I also make a point to dedicate energy to important outreach, teaching, and service iniatives.
+I passionate about the work that I do and believe that our efforts to build a more just, sustainable future will require ambition, clarity of vision, and a willingness to work together across fields in good faith. For this reason, I also dedicate part of my time as a scientist to important outreach, teaching, and service iniatives.
 
 When I'm not at work, I like to spend time at the beach, in the ocean, at the zoo, and with friends!
