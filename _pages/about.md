@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Erica. I'm a postdoctoral scholar at [NCEAS](https://www.nceas.ucsb.edu/), currently working to apply the [Ocean Health Index](https://oceanhealthindex.org/) to assess marine biodiveristy and food provisioning in the Gulf of California, Mexico.
+Hi, I'm Erica. I am a postdoctoral scholar at [NCEAS](https://www.nceas.ucsb.edu/) in the [Halpern Research Group](http://www.benhalpernresearch.org/research), where I am working to apply the [Ocean Health Index](https://oceanhealthindex.org/) to assess marine biodiveristy and food provisioning in the Gulf of California, Mexico.
 
 My research is interdisciplinary, broadly focused on the effects of climate change on marine ecosystems, ‘fish’, and fisheries in the temperate and subtropical regions of the United States and Latin America. Through my work, I seek to develop conservation solutions by indentifying the social-ecological factors that are within our control and could – theoretically – be adapted to enhance marine and coastal resilience in the face of <i>multiple</i> climate-change stressors. To accomplish my work, I draw heavily on lessons from the fields of marine ecology and ecophysiology, marine policy and management, oceanography, and Earth Systems science.
 
