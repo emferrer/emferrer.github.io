@@ -29,35 +29,35 @@ Work Experience
   Aburto Lab, Scripps Institution of Oceanography at UC San Diego
 
 
-Collegiate Teaching
+Teaching
 ======
 * <b>Instructor of Record</b> (Summer, 2023)  
-  SIO 3: Life in the Oceans
+  SIO 3: Life in the Oceans  
   * Scripps Institution of Oceanography, UC San Diego
   * 5-week summer course, 4 units; 11 students
 
 * <b>Instructor of Record</b> (Summer, 2022)  
-  SIO 3: Life in the Oceans
-  * Scripps Institution of Oceanography, UC San Diego
+  SIO 3: Life in the Oceans  
+  Scripps Institution of Oceanography, UC San Diego
   * 5-week summer course, 4 units; 19 students
 
-* <b>Graduate Teaching Assistant</b> (Spring, 2022)
-  SIOB 274: Natural History Below the Tides
-  * Scripps Institution of Oceanography, UC San Diego <br>
-  * 10-week field course (in-class lectures and SCUBA diving), 6 units; 10 students.
+* <b>Graduate Teaching Assistant</b> (Spring, 2022)  
+  SIOB 274: Natural History Below the Tides (SCUBA field course)  
+  Scripps Institution of Oceanography, UC San Diego
+  * 10-week field course, 6 units; 10 students.
     
-* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Spring, 2017)
+* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Spring, 2017)  
   CHEM 1C: General Chemistry III 
-* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Winter, 2017)
+* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Winter, 2017)  
   CHEM 1A: General Chemistry I
-* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Spring, 2016)
+* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Spring, 2016)  
   CHEM 1B: General Chemistry II
-* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Winter, 2016)
+* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Winter, 2016)  
   CHEM 1B: General Chemistry II
-* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Winter, 2016)
+* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Winter, 2016)  
   CHEM 1B: General Chemistry II 
-* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Fall, 2015)
-  CHEM 108A: Organic Chemistry I
+* <b>Undergraduate Learning Assistant / Session Co-Leader</b> (Fall, 2015)  
+  CHEM 108A: Organic Chemistry I  
   Academic Excellence Program (ACE), Physical and Biological Sciences Div. at UC Santa Cruz
   * Instructional support for students in the ACE Program; 2 learning sessions per week for 10 weeks; 15–25 students per session.
 
