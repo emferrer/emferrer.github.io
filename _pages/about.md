@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Background, Interests, & Philosophy"
+title: "Research Background & Vision"
 author_profile: true
 redirect_from: 
   - /about/
