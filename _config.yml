@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Erica DIVERsity Headshot.jpg"
+  avatar           : "Erica_DIVERsity_Headshot.jpg"
   name             : "<b>Erica M. Ferrer, Ph.D.</b>"
   pronouns         : "she/her"  
   bio              : "<b>Postdoctoral Scholar</b><br>National Center for Ecological Analysis and Synthesis (NCEAS) at UC Santa Barbara<br>UC Chancellor's Fellow (UCSC, 2023–2025)"
