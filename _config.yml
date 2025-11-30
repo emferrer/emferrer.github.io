@@ -166,6 +166,7 @@ exclude:
   - .asset-cache
   - .bundle
   - .github
+  - .devcontainer      # <-- ADD THIS
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/_main.js
@@ -175,12 +176,18 @@ exclude:
   - Capfile
   - config
   - Dockerfile
+  - docker-compose.yaml  # <-- ADD THIS
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
   - LICENSE
   - local
   - log
+  - markdown_generator   # <-- ADD THIS
+  - scripts              # <-- ADD THIS
+  - talkmap              # <-- ADD THIS
+  - talkmap.ipynb        # <-- ADD THIS
+  - talkmap_out.ipynb    # <-- ADD THIS
   - node_modules
   - package.json*
   - Rakefile
