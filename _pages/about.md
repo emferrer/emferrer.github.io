@@ -1,16 +1,18 @@
 ---
 permalink: /
-title: "Research Backgrounds & Interests"
+title: "Research Background & Interests"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi, I'm Erica. I'm a postdoctoral scholar at [NCEAS](https://www.nceas.ucsb.edu/), currently working to apply the [Ocean Health Index](https://oceanhealthindex.org/) framework to assess ocean health and ecosystem services in the Gulf of California, Mexico.
+Hi, I'm Erica. I'm a postdoctoral scholar at [NCEAS](https://www.nceas.ucsb.edu/), currently working to apply the [Ocean Health Index](https://oceanhealthindex.org/) framework to assess marine health, biodiveristy, and food provisioning in the Gulf of California, Mexico.
 
-My research is interdisciplinary and broadly focused on the effects of climate change on marine ecosystems, ‘fish’, and fisheries, with a special focus on subtropical and temperate systems in the United States and Latin America. Through my research, I seek to advance conservation solutions to marine multiple-stressor issues, and I am particularly interested in elucidating the social-ecological factors within our control that confer resilience. To accomplish my work, I draw heavily on lessons from the fields of marine ecology and ecophysiology, marine policy and environmental management, biological oceanography, and Earth Systems science.
+My research is interdisciplinary – broadly focused on the effects of climate change on marine ecosystems, ‘fish’, and fisheries in the temperate and subtropical regions of the United States and Latin America. Through my work, I seek to develop conservation solutions for marine systems by indentifying the social-ecological factors that are within our control and could – theoretically – be managed to enhance coastal resilience in the face of <i>multiple</i> emerging climate stressors. To accomplish my work, I draw heavily on lessons from the fields of marine ecology and ecophysiology, marine policy and management, oceanography, and Earth Systems science.
 
-Prior to joining NCEAS, I was a Chancellor's Postdoctoral Fellow in the [Coastal Sustainability Lab](https://kristy-kroeker.squarespace.com/) at UC Santa Cruz. (You can learn more about the Chancellor's Postdoctoral Fellowship, supported under the UC President's Postdoctoral Fellowship Program, [here](https://ppfp.ucop.edu/info/).) And before that, I completed my Ph.D. in Marine Biology and M.S. in Oceanography at UC San Diego Scripps Institution of Oceanography in the [Aburto Lab](https://www.aburtolab.org/).
+Prior to joining NCEAS, I was a Chancellor's Postdoctoral Fellow in the [Coastal Sustainability Lab](https://kristy-kroeker.squarespace.com/) at UC Santa Cruz. (You can learn more about the Chancellor's Postdoctoral Fellowship, supported under the University of California's President's PFP, [here](https://ppfp.ucop.edu/info/).)
 
-When I'm not at work, I like to spend my time at the beach, in the ocean and on SCUBA, at the zoo, and with friends.
+I completed my Ph.D. in Marine Biology and M.S. in Oceanography at UC San Diego's Scripps Institution of Oceanography in the [Aburto Lab](https://www.aburtolab.org/). While at Scripps, I also received formal interdisciplinary training, with a focus on global policy and strategy, via the Center for Marine Biodiversity and Conservation's [Program for Interdisciplinary Environmental Research](https://cmbc.ucsd.edu/program-for-interdisciplinary-environmental-research-pier-phd-specialization/).
+
+When I'm not at work, I like to spend my time at the beach, in the ocean, at the zoo, and with friends!
