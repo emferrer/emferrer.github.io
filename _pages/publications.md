@@ -9,7 +9,7 @@ author_profile: true
 
 ## Published
 <div class="publist" markdown="1">
-1. <b>Ferrer, E. M.</b>, Pezner, A. K., Eddebbar, Y., Breitburg, D., Crowe, S., Garçon, V., Grégoire, M., Jane, S., Leavitt, P., Levin, L. A., Rose, K., and Wallace, D. (2025). Why Aquatic Deoxygenation belongs in the Planetary Boundary Framework. PLOS Climate, 4, p. 1–4. (E.M.F. and A.K.P. are co-first authors.)
+1. <b>Ferrer, E. M.</b>, Pezner, A. K., Eddebbar, Y., Breitburg, D., Crowe, S., Garçon, V., Grégoire, M., Jane, S., Leavitt, P., Levin, L. A., Rose, K., and Wallace, D. (2025). Why Aquatic Deoxygenation belongs in the Planetary Boundary Framework. PLOS Climate, 4, p. 1–4. <i><b>E.M.F. and A.K.P. are co-first authors.</b>b</i>
 2. Aburto-Oropeza, O., Platzgummer, V., <b>Ferrer, E. M.</b>, Mirabent, R. A., Galindo, A. Á., Favoretto, F., Giron-Nava, A., López-Sagástegui, C. Mendoza-Camacho, I., Nuñez-Sañudo, C., Plascencia de La Cruz, M., and Robles, A. (2025). Marine Prosperity Areas: A framework for aligning ecological restoration and human well-being using marine area-based protections. Frontiers in Marine Science, 11, p. 1–16.
 3. Fadlovich, R., Carrasco Flores, D., <b>Ferrer, E. M.</b>, Graham, O., Hampton, S., Khrizman, A., Kong, C., Kreuser, A., Pinter, S., Sims, L., Torres, M., Una, R., Wilson, A., Zhang, W., Zhu, Y., and Greene, C. (2025). The next generation of marine heatwaves science: takeaways from a two-week training workshop. Limnology & Oceanography Bulletin, p. 1–3.  
 4. Roman, M., Altieri, A., Breitburg, D., <b>Ferrer, E. M.</b>, Gallo, N., Ito, S-I., Limburg, K., Rose, K., Yasuhara, M., and Levin, L. A. (2024). Biological indicators of oxygen stress in marine water-breathing animals. Biogeosciences, 21, p. 4975–5004.
