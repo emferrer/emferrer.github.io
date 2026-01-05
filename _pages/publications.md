@@ -29,3 +29,5 @@ author_profile: true
 3. <b>Ferrer, E. M.</b>, Hardison, E. A., Ramírez-Valdez, A., Huynh, V., Romero, E., Eliason, E. J., Tamayo Ceseña, G. I., and Garcia Esquivel, Z. Physiological plasticity and vulnerability of a commercially-important bivalve (Nodipecten scallops) to chronic El Niño and acute heatwave stressors. Manuscript submitted.
 4. Slomp, C. P., Oschlies, A., Austin, D., Bach, L. T., Bopp, L., Breitburg, D., Canning, A., Conley, D. J., Dai, M., Dewitte, B., Enevoldsen, H., <b>Ferrer, E. M.</b>, et al. Can artificial oxygenation revitalize dying coastal seas? Manuscript submitted.
 </div>
+5. <b>Ferrer, E. M.</b>, Kudela, R., Hayashi, K., Walker, B. J., and Kroeker, K. J. Low-oxygen conditions amplify Dungeness crabs’ bioaccumulation of domoic acid toxin: implications for food webs and fisheries during HAB compound events. Manuscript submitted.
+
