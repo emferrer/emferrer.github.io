@@ -36,27 +36,27 @@ Teaching
 * <b>Instructor of Record</b> (Summer, 2023)  
   SIO 3: Life in the Oceans  
   Scripps Institution of Oceanography, UC San Diego
-  * 5-week summer course, 4 units; 11 students
+  * 5-week summer course, 4 units; 11 students.
 * <b>Instructor of Record</b> (Summer, 2022)  
   SIO 3: Life in the Oceans  
   Scripps Institution of Oceanography, UC San Diego
-  * 5-week summer course, 4 units; 19 students
+  * 5-week summer course, 4 units; 19 students.
 * <b>Graduate Teaching Assistant</b> (Spring, 2022)  
   SIOB 274: Natural History Below the Tides (SCUBA field course)  
   Scripps Institution of Oceanography, UC San Diego
-  * 10-week field course, 6 units; 10 students
+  * 10-week field course, 6 units; 10 students.
 
 ### <i>Undergraduate Instructor</i>
-* <b>UG Learning Assistant / Session Co-Leader</b> (Spring, 2017)  
+* <b>Learning Assistant / Session Co-Leader</b> (Spring, 2017)  
   CHEM 1C: General Chemistry III 
-* <b>UG Learning Assistant / Session Co-Leader</b> (Winter, 2017)  
+* <b>Learning Assistant / Session Co-Leader</b> (Winter, 2017)  
   CHEM 1A: General Chemistry I
-* <b>UG Learning Assistant / Session Co-Leader</b> (Winter, 2016; Spring, 2016)  
+* <b>Learning Assistant / Session Co-Leader</b> (Winter, 2016; Spring, 2016)  
   CHEM 1B: General Chemistry II
-* <b>UG Learning Assistant / Session Co-Leader</b> (Fall, 2015)  
+* <b>Learning Assistant / Session Co-Leader</b> (Fall, 2015)  
   CHEM 108A: Organic Chemistry I  
   [Academic Excellence Program (ACE)](https://ace.science.ucsc.edu/), Physical and Biological Sciences Division at UC Santa Cruz
-  * Instructional support for students in the ACE Program; 2 learning sessions per week for 10 weeks; 15–25 students per session.
+  * 10-week courses, 4 units each; co-taught 2 formal learning sessions per week, 15–25 students per session; held 2-5 informal mentoring hours per week, 2-6 students per hour.
 
 Professional Service & Outreach (selected)
 ======
