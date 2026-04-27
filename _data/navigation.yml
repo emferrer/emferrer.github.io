@@ -14,8 +14,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Professional Updates"
-    url: /updates/
+ # - title: "Professional Updates"
+  #  url: /updates/
     
   # - title: "Talks"
     # url: /talks/    
