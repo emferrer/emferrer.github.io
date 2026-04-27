@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Updates"
+title: "Professional Updates"
 permalink: /updates/
 layout: single
 author_profile: true
