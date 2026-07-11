@@ -29,6 +29,7 @@ Fellowship Awards & Appointments
 * <b>San Diego Graduate Research Fellow</b> (2017–2019)<br>
   Aburto Lab, Scripps Institution of Oceanography at UC San Diego
 
+
 Additional Honors (selected)
 ======
 
@@ -37,6 +38,7 @@ Additional Honors (selected)
 * <b>2021 Group Inclusive Excellence Award</b>, SIO Community Engagement Fellows, UCSD (2022)
 * <b>2020 Group Inclusive Excellence Award</b>, SIO Women and Minorities in Science, UCSD (2021)
 * <b>Outstanding Peer Mentor Award</b>, Scripps Institution of Oceanography at UC San Diego (2020) 
+
 
 Field Experience (selected)
 ======
@@ -53,6 +55,7 @@ Field Experience (selected)
 * <b>Undergraduate Field Researcher</b> (Fall, 2014)<br>
   Station de Recherche Océanographiques et sous-marines – Calvi, France
 
+
 Teaching
 ======
 ## Graduate Instructor
@@ -66,7 +69,6 @@ At Scripps Institution of Oceanography, UC San Diego
 * <b>Graduate Teaching Assistant</b> (Spring, 2022)  
   SIOB 274: Natural History Below the Tides (SCUBA field course)  
   * 10-week field course, 6 units; 10 students.
-
 ## Undergraduate Instructor
 At UC Santa Cruz, Physical and Biological Sciences Division, [Academic Excellence Program (ACE)](https://ace.science.ucsc.edu/)
 * <b>Learning Assistant / Session Co-Leader</b> (Spring, 2017)  
@@ -78,6 +80,7 @@ At UC Santa Cruz, Physical and Biological Sciences Division, [Academic Excellenc
 * <b>Learning Assistant / Session Co-Leader</b> (Fall, 2015)  
   CHEM 108A: Organic Chemistry I
   * All were 10-week courses, 4 units each; co-taught 2 formal learning sessions per week, 15–25 students per session; held 2-5 informal mentoring hours per week, 2-6 students per hour.
+
 
 Professional Service & Outreach (selected)
 ======
@@ -95,11 +98,11 @@ Professional Service & Outreach (selected)
   (Formerly) Office for Equity, Diversity, and Inclusion at Scripps Institution of Oceanography, UC San Diego
 * <b>Vice President of Campus Affairs (elected)</b> (2018-2019)  
   Graduate and Professional Student Council (GPSA), UC San Diego
-
 ## Newspaper Op-Eds
 * Cavan, E., <b>Ferrer, E. M.</b>, and Sumaila, R. U. [<i>The ocean should be front and center at COP26</i>](https://www.euronews.com/2021/11/05/don-t-sideline-fish-and-the-ocean-at-cop26-view). Euronews.
 * Becker, M., Dohner, J., and <b>Ferrer, E. M.</b> [<i>Why ocean lovers should follow the global climate conference</i>](https://www.sandiegouniontribune.com/2019/12/05/why-ocean-lovers-should-follow-global-climate-conference/). San Diego Union Tribune.
 * Costa, M. T., <b>Ferrer, E. M.</b>, and Levin, L.A. [<i>De Anza Cove wetland restoration would help protect us against sea-level rise</i>](https://www.sandiegouniontribune.com/2018/12/05/why-de-anza-cove-wetland-restoration-would-help-protect-us-against-sea-level-rise/). San Diego Union Tribune.
+
 
 Media (selected)
 ======
