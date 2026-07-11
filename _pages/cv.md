@@ -40,7 +40,6 @@ Additional Honors (selected)
 
 Field Experience (selected)
 ======
-
 * <b>Research Cruise Participant, R/V Sally Ride</b> (12 days; March, 2023)<br>
   SIO, UCSD – La Jolla, CA
 * <b>Graduate Researcher Abroad</b> (Summer, 2021)<br>
@@ -56,7 +55,7 @@ Field Experience (selected)
 
 Teaching
 ======
-### Graduate Instructor
+## Graduate Instructor
 At Scripps Institution of Oceanography, UC San Diego
 * <b>Instructor of Record</b> (Summer, 2023)  
   SIO 3: Life in the Oceans  
@@ -68,7 +67,7 @@ At Scripps Institution of Oceanography, UC San Diego
   SIOB 274: Natural History Below the Tides (SCUBA field course)  
   * 10-week field course, 6 units; 10 students.
 
-### Undergraduate Instructor
+## Undergraduate Instructor
 At UC Santa Cruz, Physical and Biological Sciences Division, [Academic Excellence Program (ACE)](https://ace.science.ucsc.edu/)
 * <b>Learning Assistant / Session Co-Leader</b> (Spring, 2017)  
   CHEM 1C: General Chemistry III
@@ -97,7 +96,7 @@ Professional Service & Outreach (selected)
 * <b>Vice President of Campus Affairs (elected)</b> (2018-2019)  
   Graduate and Professional Student Council (GPSA), UC San Diego
 
-### <i>Newspaper Op-Eds</i>
+## Newspaper Op-Eds
 * Cavan, E., <b>Ferrer, E. M.</b>, and Sumaila, R. U. [<i>The ocean should be front and center at COP26</i>](https://www.euronews.com/2021/11/05/don-t-sideline-fish-and-the-ocean-at-cop26-view). Euronews.
 * Becker, M., Dohner, J., and <b>Ferrer, E. M.</b> [<i>Why ocean lovers should follow the global climate conference</i>](https://www.sandiegouniontribune.com/2019/12/05/why-ocean-lovers-should-follow-global-climate-conference/). San Diego Union Tribune.
 * Costa, M. T., <b>Ferrer, E. M.</b>, and Levin, L.A. [<i>De Anza Cove wetland restoration would help protect us against sea-level rise</i>](https://www.sandiegouniontribune.com/2018/12/05/why-de-anza-cove-wetland-restoration-would-help-protect-us-against-sea-level-rise/). San Diego Union Tribune.
