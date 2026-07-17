@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
-permalink: /cv/
+title: "Media"
+permalink: /media/
 author_profile: true
 ---
 
