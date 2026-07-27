@@ -24,4 +24,4 @@ selected
 * [Scripps Student Spotlight: Erica Ferrer](https://scripps.ucsd.edu/news/scripps-student-spotlight-erica-ferrer). Scripps News. Jan., 2022.	
 * [Women and Minorities in Science group honored for contributions to inclusive excellence](https://scripps.ucsd.edu/news/women-and-minorities-science-group-honored-contributions-inclusive-excellence). Scripps News. Feb., 2021	
 * [Celebrating Women in Science at Scripps Institution of Oceanography](https://scripps.ucsd.edu/news/celebrating-women-science-scripps-oceanography). Scripps News. Mar., 2020.
-* [Inaugural Fred Keeley Coastal Scholars learn by doing](https://news.ucsc.edu/2016/02/keeley-coastal-scholars/). UC Santa Cruz Campus News. Feb., 2016.
+* [Inaugural Fred Keeley Coastal Scholars learn by doing](https://news.ucsc.edu/2016/02/keeley-coastal-scholars/). UC Santa Cruz News. Feb., 2016.
