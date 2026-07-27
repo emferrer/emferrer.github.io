@@ -9,6 +9,7 @@ author_profile: true
 
 selected
 ======
+* [As El Niño cooks Pacific, California scientists warn ocean is losing oxygen](https://www.sfgate.com/science/article/el-nino-ocean-oxygen-22359557.php). SF GATE. July, 2026.
 * [Earth’s Oceans Are Rapidly Losing Oxygen. It Could Destabilize the Planet](https://gizmodo.com/earths-oceans-are-rapidly-losing-oxygen-it-could-destabilize-the-planet-2000787781). Gizmodo Earth Science. July, 2026.
 * [Underwater Oxygen Loss Threatens Earth’s Stability, Researchers Warn](https://today.ucsd.edu/story/underwater-oxygen-loss-threatens-earths-stability-researchers-warn). UC San Diego Today. July., 2026.
 * [‘Marine Prosperity Areas’ represent a new hope in conservation](https://www.weforum.org/friends-of-ocean-action/marine-prosperity-areas-represent-a-new-hope-in-conservation/). World Economic Forum: Friends of Ocean Action. Feb., 2025.
