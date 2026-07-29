@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Applied, interdisciplinary marine science for solutions.
+**Applied, interdisciplinary marine science for solutions.**
 
 Hi, I'm Erica, and I'm postdoctoral scholar in the [Halpern Research Group](http://www.benhalpernresearch.org/research) at the [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/). My research examines how climate change affects coastal ecosystems, fish, and fisheries across the United States and Latin America, and how we can leverage this information to enact effective biodiversity conservation and fisheries management. I am particularly interested in understanding the impacts of natural oceanographic cycles (like El Niño), anthropogenic warming, and deoxygenation on nearshore ecosystems, invertebrate taxa, and fishery populations targeted by small-scale fisheries and mariculture.
 
