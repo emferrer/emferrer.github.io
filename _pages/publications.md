@@ -14,7 +14,7 @@ Visit my google scholar page [here](https://scholar.google.com/citations?user=V7
 
 If you have any trouble accessing these articles, please contact me and I will be happy to share the article directly.
 
-1. King, R. A., Abowd, L., Broderick, C., Bradley, L., Czapanskiy, M., Farnisa, M. M., <b>Ferrer, E. M.</b>, Galaz García, C., Gill, D., Greco, N. M., Jacquemont, J., Kadi, J., Kui, L., LeBuhn, G., Li, L., Meyer, A., Morse, M., Patrick, E., Shanny-Csik, S., Tucker, N. A. C., Wang, Z., and Fong, C. R. (2026). Ten simple rules for effective use of generative AI for code development in environmental data science. Provisionally accepted, <i>PLOS Computational Biology</i>.
+1. King, R. A., Abowd, L., Broderick, C., Bradley, L., Czapanskiy, M., Farnisa, M. M., <b>Ferrer, E. M.</b>, Galaz García, C., Gill, D., Greco, N. M., Jacquemont, J., Kadi, J., Kui, L., LeBuhn, G., Li, L., Meyer, A., Morse, M., Patrick, E., Shanny-Csik, S., Tucker, N. A. C., Wang, Z., and Fong, C. R. (2026). [Ten simple rules for effective use of generative AI for code development in environmental data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014627). <i>PLOS Computational Biology</i>, p. 1-13.
 
 3.  <b>Ferrer, E. M.</b>, Eddebbar, Y., Gangrade, S., McCormick, L. R., Pezner, A. K., Robinson, D. Garcon, V., Rose, K. C., and Levin, L. A. (2026). [Abundant interactions and feedbacks between aquatic deoxygenation and the other planetary boundaries suggest “unsafe” levels of oxygen loss with far-reaching impacts](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70434). <i>Limnology and Oceanography</i>, p. 1-19.
 
