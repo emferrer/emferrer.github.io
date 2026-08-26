@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Applied, interdisciplinary marine science for solutions"
+title: "Applied, interdisciplinary science for coastal & marine solutions."
 author_profile: true
 redirect_from: 
   - /about/
