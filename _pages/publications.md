@@ -14,7 +14,9 @@ Visit my google scholar page [here](https://scholar.google.com/citations?user=V7
 
 If you have any trouble accessing these articles, please contact me and I will be happy to share the article directly.
 
-1. King, R. A., Abowd, L., Broderick, C., Bradley, L., Czapanskiy, M., Farnisa, M. M., <b>Ferrer, E. M.</b>, Galaz García, C., Gill, D., Greco, N. M., Jacquemont, J., Kadi, J., Kui, L., LeBuhn, G., Li, L., Meyer, A., Morse, M., Patrick, E., Shanny-Csik, S., Tucker, N. A. C., Wang, Z., and Fong, C. R. (2026). [Ten simple rules for effective use of generative AI for code development in environmental data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014627). <i>PLOS Computational Biology</i>, p. 1-13.
+1. <b>Ferrer, E. M.</b>, Hardison, E. A., Ramírez-Valdez, A., Huynh, V., Romero, E., Eliason, E. J., Tamayo Ceseña, G. I., and Garcia Esquivel, Z. Commercially-important <i>Nodipecten</i> scallops show physiological resistance and plasticity in response to simulated chronic El Niño and acute heatwave stressors. <i>Global Change Biology Communications</i>, accepted.
+   
+2. King, R. A., Abowd, L., Broderick, C., Bradley, L., Czapanskiy, M., Farnisa, M. M., <b>Ferrer, E. M.</b>, Galaz García, C., Gill, D., Greco, N. M., Jacquemont, J., Kadi, J., Kui, L., LeBuhn, G., Li, L., Meyer, A., Morse, M., Patrick, E., Shanny-Csik, S., Tucker, N. A. C., Wang, Z., and Fong, C. R. (2026). [Ten simple rules for effective use of generative AI for code development in environmental data science](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014627). <i>PLOS Computational Biology</i>, p. 1-13.
 
 3.  <b>Ferrer, E. M.</b>, Eddebbar, Y., Gangrade, S., McCormick, L. R., Pezner, A. K., Robinson, D. Garcon, V., Rose, K. C., and Levin, L. A. (2026). [Abundant interactions and feedbacks between aquatic deoxygenation and the other planetary boundaries suggest “unsafe” levels of oxygen loss with far-reaching impacts](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lno.70434). <i>Limnology and Oceanography</i>, p. 1-19.
 
@@ -52,13 +54,11 @@ If you have any trouble accessing these articles, please contact me and I will b
 ## Submitted
 <div class="publist" markdown="1">
 
-1. <b>Ferrer, E. M.</b>, Hardison, E. A., Ramírez-Valdez, A., Huynh, V., Romero, E., Eliason, E. J., Tamayo Ceseña, G. I., and Garcia Esquivel, Z. Commercially-important <i>Nodipecten</i> scallops show physiological resistance and plasticity in response to simulated chronic El Niño and acute heatwave stressors. Manuscript in revision.
+
+1. <b>Ferrer, E. M.</b>, Kudela, R., Hayashi, K., Walker, B. J., and Kroeker, K. J. Warm, low-oxygen conditions are associated with elevated bioaccumulation of domoic acid in Dungeness crabs (<i>Metacarcinus magister</i>). Manuscript in revision.
 
 
-2. <b>Ferrer, E. M.</b>, Kudela, R., Hayashi, K., Walker, B. J., and Kroeker, K. J. Warm, low-oxygen conditions are associated with elevated bioaccumulation of domoic acid in Dungeness crabs (<i>Metacarcinus magister</i>). Manuscript in revision.
-
-
-4. Morales, M. Kroeker, K., da Cunha Godoy, L., Bograd, S., <b>Ferrer, E. M.</b>, Fiechter, J., Hazen, E., Kudela, R., Pomeroy, C., Pinsky, M. Incorporating demographic mechanisms into spatial models improves abundance-based forecast skill under novel environmental conditions. Manuscript submitted.
+2. Morales, M. Kroeker, K., da Cunha Godoy, L., Bograd, S., <b>Ferrer, E. M.</b>, Fiechter, J., Hazen, E., Kudela, R., Pomeroy, C., Pinsky, M. Incorporating demographic mechanisms into spatial models improves abundance-based forecast skill under novel environmental conditions. Manuscript submitted.
 
 </div>
 
