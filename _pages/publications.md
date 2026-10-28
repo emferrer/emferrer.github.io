@@ -51,7 +51,7 @@ If you have any trouble accessing these articles, please contact me and I will b
 16. Koslow, J. A., Davison, P., <b>Ferrer, E. M.</b>, Jiménez Rosenberg, S. P. A., Aceves-Medina, G., and Watson, W. (2018). [The evolving response of mesopelagic fishes to declining midwater oxygen concentrations in the southern and central California Current](https://academic.oup.com/icesjms/article/76/3/626/5184892). <i>ICES Journal of Marine Science</i>, 73, p. 626–38.
 </div>
 
-## Submitted
+## Submitted or Under Review
 <div class="publist" markdown="1">
 
 
