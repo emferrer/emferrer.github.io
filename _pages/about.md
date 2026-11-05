@@ -1,22 +1,22 @@
 ---
 permalink: /
-title: "Applied, interdisciplinary science for coastal & marine solutions."
+title: "Science at the ocean, biodiversity, and human interface is critical to protecting the planet and advancing viable solutions to climate change."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Science at the ocean, biodiversity, and human interface is critical to protecting the planet and advancing viable solutions to climate change.
+Hi, I'm Erica, and I'm postdoctoral scholar in the [Halpern Research Group](http://www.benhalpernresearch.org/research) at the [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/). My research examines how climate change and human use affects marine ecosystems, fish, and fisheries across the United States and Latin America. I am particularly interested in understanding the impacts of natural oceanographic cycles (like El Niño), anthropogenic warming, and deoxygenation on coastal ecosystems and invertebrates impacted or targeted by small-scale fishies and mariculture, and how we can leverage this information to enact effective conservation and management. 
 
-Hi, I'm Erica, and I'm postdoctoral scholar in the [Halpern Research Group](http://www.benhalpernresearch.org/research) at the [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/). My research examines how climate change and human use affects coastal ecosystems, fish, and fisheries across the United States and Latin America, and how we can leverage this information to enact effective conservation and management. I am particularly interested in understanding the impacts of natural oceanographic cycles (like El Niño), anthropogenic warming, and deoxygenation on coastal ecosystems and invertebrate taxa impacted or targeted by small-scale fishies and mariculture.
-
-Currently, I am using the Ocean Health Index to evaluate the status of marine biodiversity, habitat services (e.g., blue carbon), and sustainable seafood in the Gulf of California, Mexico. Long-term, I seek to develop conservation solutions across the Eastern Pacific by identifying social-ecological factors that are within our control and can be adapted to enhance resilience.
+Currently, I am using the Ocean Health Index to evaluate the status of marine biodiversity, habitat services (e.g., blue carbon), and sustainable seafood in the Gulf of California, Mexico. Long term, I seek to develop conservation solutions across the Eastern Pacific by identifying social-ecological factors that are within our control and can be adapted to enhance resilience.
 
 To accomplish my work, I draw heavily on the lessons I've gained from my training in marine ecology, oceanography, climate science, and policy at UC San Diego's Scripps Institution of Oceanography, where I earned my Ph.D. in Marine Biology, M.S. in Oceanography, and [interdisciplinary specialization](https://cmbc.ucsd.edu/program-for-interdisciplinary-environmental-research-pier-phd-specialization/) through the Scripps Center for Marine Biodiversity and Conservation.
 
-Prior to joining NCEAS, I was a Chancellor's Postdoctoral Fellow in the [Coastal Sustainability Lab](https://kristy-kroeker.squarespace.com/) at UC Santa Cruz, where I studied the impacts of ocean warming, deoxygenation, and harmful algal blooms on Dungeness crab and the highly lucrative fishery they support.
+Prior to joining NCEAS, I was a Chancellor's Postdoctoral Fellow in the [Coastal Sustainability Lab](https://kristy-kroeker.squarespace.com/) at UC Santa Cruz, where I studied the impacts of ocean warming, deoxygenation, and harmful algal blooms on Dungeness crab and the lucrative fishery they support.
 
-I am passionate about the work that I do and believe that our efforts to build a more just, sustainable future will require ambition, clarity of vision, and a willingness to work together across fields in good faith. As part of this commitment, I dedicate part of my time as a scientist to outreach, teaching, community-building, and service initiatives, including co-founding the [Scripps SCUBA DIVERsity Program](https://scripps.ucsd.edu/community/collective-impact/scripps-scuba-diversity-program) and [UCSC's ACCESS Diving Program](https://sites.google.com/ucsc.edu/accessdiving/home?pli=1).
+I am passionate about the work that I do and believe that our efforts to build a more just, sustainable future will require ambition, clarity of vision, and a willingness to work together across fields in good faith. As part of this commitment, I dedicate part of my time to outreach, teaching, community-building, and service initiatives, including co-founding the [Scripps SCUBA DIVERsity Program](https://scripps.ucsd.edu/community/collective-impact/scripps-scuba-diversity-program) and [UCSC's ACCESS Diving Program](https://sites.google.com/ucsc.edu/accessdiving/home?pli=1).
 
 Outside of work, I like to spend time at the beach, in the ocean, at the zoo, and with friends!
+
+🌊🌊🌊
