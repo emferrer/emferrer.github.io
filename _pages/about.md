@@ -9,7 +9,7 @@ redirect_from:
 
 🌊🌊🌊
 
-Hi, I'm Erica, and I believe that science for solutions at the ocean, biodiversity, and human interface is critical to protecting the planet and advancing viable solutions to climate change. Toward this, my research examines how climate change and human use affects marine ecosystems, fish, and fisheries across the United States and Latin America. I am particularly interested in understanding the impacts of natural oceanographic cycles (like El Niño), anthropogenic warming, and deoxygenation on nearshore ecosystems and marine invertebrates targeted by small-scale fishies and mariculture. 
+Hi, I'm Erica, and I believe that science at the ocean, biodiversity, and human interface is critical to protecting the planet and advancing viable solutions to climate change. Toward this, my research examines how climate change and human use affects marine ecosystems, fish, and fisheries across the United States and Latin America. I am particularly interested in understanding the impacts of natural oceanographic cycles (like El Niño), anthropogenic warming, and deoxygenation on nearshore ecosystems and marine invertebrates targeted by small-scale fishies and mariculture. 
 
 Long term, I seek to develop scientifically-sound and socially-just solutions to climate and conservation issues by identifying social-ecological factors that are within our control and can be adapted to enhance resilience.
 
